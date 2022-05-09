@@ -1,4 +1,4 @@
-# welcome to cluster-fk! #
+# Welcome to cluster-fk! #
 Image clustering for objects and faces using Tensorflow, DeepFace and DBSCAN clustering.
 
 This code provides a series of classes that enable simple clustering of images. Room for improvement!
