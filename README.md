@@ -3,10 +3,14 @@ Image clustering for objects and faces using Tensorflow, DeepFace and DBSCAN clu
 
 This code provides a series of classes that enable simple clustering of images. Room for improvement!
 
-✅ Object Clustering
-✅ Face Clustering
+✅ Object Clustering.
+
+✅ Face Clustering.
+
 ✅ Visual window utils.
+
 ❌ Different file types.
+
 
 DBSCAN clustering can be learned about here:
 https://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html#sphx-glr-auto-examples-cluster-plot-dbscan-py
